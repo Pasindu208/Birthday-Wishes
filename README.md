@@ -63,6 +63,8 @@ All in all, I'm just a laid-back guy who's passionate about computers and eager 
 
 <br>
 
+## Stats:
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu208&layout=compact&theme=dark&langs_count=10) 
 
 
